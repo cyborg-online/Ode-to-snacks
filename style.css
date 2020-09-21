@@ -1,0 +1,49 @@
+<style>
+/* this is a comment in css  */
+
+/* element selector */
+h1{
+ color: blueviolet;
+ font-size: 45px;   
+}
+
+/* class selector */
+.title {
+    color: #003087;
+     font size: 20px;
+    
+}
+
+.yum{
+    color: coral;
+    font size: 20px;
+}
+
+.zen {
+    color: darkgoldenrod;
+    font size: 20px
+}
+
+/* id selector  */
+#oreo {
+border: solid;
+border-width: 10px;
+border-color:#272425 ;
+
+}
+
+#focus {
+     border: solid;
+border-width: 10px;
+border-color:coral ;
+
+}
+#asmr {
+    border: solid;
+border-width: 10px;
+border-color:goldenrod ;
+
+}
+
+
+</style>
